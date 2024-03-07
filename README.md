@@ -12,3 +12,5 @@ To run this project locally:
 - Start the client with npm run dev.
 - Open the application at http://localhost:3000.
 
+## Note
+### I made a new repository(this one: /codeAlpha_ChatGPT_Integration) for the project i made in the past(/chatgpt-clone). 
